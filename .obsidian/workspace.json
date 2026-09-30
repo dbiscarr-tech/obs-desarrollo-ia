@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "7c231c3642c76664",
+    "type": "split",
+    "children": [
+      {
+        "id": "17e8de17d952634c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4707aebb8fb44a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura Ciberstrategy App/Cyberstrategy arquitectura 3 - practica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cyberstrategy arquitectura 3 - practica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f7997118eb86f1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdd881196554c6fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f88ea659b01104d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1f8f4165fd40e612",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "e7b5c6f1baa8f652",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "46e08a7160268877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bienvenido.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bienvenido"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02689fdd1c35f3f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "faa170fc007f8680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4876816d15a4bf9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "expense-tracking-ia/Version 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "7b110fc5e2acb3ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "expense-tracking-ia/Version 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "d9756ac28a67d63e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "41d9b4b4cab4461d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "a5d82e686b2ae551",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "expense-tracking-ia/Version 3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "c4707aebb8fb44a8",
+  "lastOpenFiles": [
+    "Arquitectura Ciberstrategy App/CyberStrategy como caso práctico.md",
+    "Arquitectura Ciberstrategy App/Cyberstrategy arquitectura 3 - practica.md",
+    "Arquitectura Ciberstrategy App/CyberStrategy arquitectura parte 2.md",
+    "Bienvenido.md",
+    "Claude Ingeniería de software con agentes de IA generativa/code_review.md.md",
+    "Claude Ingeniería de software con agentes de IA generativa/Ejercicio De la servilleta manchada de café al código de producción con avisos multimodales.md",
+    "React/Ejercicio 1 Hello wordl.md",
+    "Arquitectura Ciberstrategy App",
+    "Claude Ingeniería de software con agentes de IA generativa/Claude MD version control.md",
+    "React",
+    "Claude Ingeniería de software con agentes de IA generativa/Claude.md",
+    "Claude Ingeniería de software con agentes de IA generativa/recursos Curso.md",
+    "Claude Ingeniería de software con agentes de IA generativa/Permitir que el código Claude trabaje en paralelo con Git Worktrees.md",
+    "Claude Ingeniería de software con agentes de IA generativa/HAVING Claude Code Pensar y planificar primero.md",
+    "Claude Ingeniería de software con agentes de IA generativa/CHAT.md",
+    "Claude Ingeniería de software con agentes de IA generativa/Claude Subagentes y Tareas.md",
+    "Claude Ingeniería de software con agentes de IA generativa/Creación de comandos Claude.md",
+    "Claude Ingeniería de software con agentes de IA generativa/Desarrollo paralelo de funciones con subagentes, tareas y árboles de trabajo Git.md",
+    "Claude Ingeniería de software con agentes de IA generativa/Ejercicio 1 Introducción al código Claude y creación de la primera aplicación.md",
+    "Claude Ingeniería de software con agentes de IA generativa/Ejemplo Claudemd 1, sin corregir.md",
+    "Claude Ingeniería de software con agentes de IA generativa/ejercicio Evaluación de IA de código e implementaciones de funciones.md",
+    "Claude Ingeniería de software con agentes de IA generativa/Version 3.md",
+    "Claude Ingeniería de software con agentes de IA generativa/Version 2.md",
+    "Claude Ingeniería de software con agentes de IA generativa/Sin título.md",
+    "Claude Ingeniería de software con agentes de IA generativa/Reiniciar Versión 1.md",
+    "Claude Ingeniería de software con agentes de IA generativa/Primer BIg prompt.md",
+    "Pasted image 20260923090827.png",
+    "Pasted image 20260923090246.png",
+    "Claude Ingeniería de software con agentes de IA generativa/Escribir archivos Claude.md.md",
+    "Claude Ingeniería de software con agentes de IA generativa/expense-tracking-ia Ejercicio 2.md",
+    "Claude Ingeniería de software con agentes de IA generativa"
+  ]
+}
